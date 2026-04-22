@@ -41,11 +41,14 @@ A significant amount of food is wasted daily while many people go hungry. This p
  Order Cancellation (within 5–10 minutes)
  
  Promotion of Socially Responsible Restaurants
+ 
+**Frontend:** ( HTML-CSS-JS)
 
- Frontend: ( HTML-CSS-JS)
-Backend: (Node.js / Flask / Django)
-Database: (MongoDB / Firebase / MySQL)
-APIs: 
+**Backend:** (Node.js / Flask / Django)
+
+**Database:** (MongoDB / Firebase / MySQL)
+
+**APIs:** google API
 
 **How It Works:**
 
@@ -59,5 +62,21 @@ Pickup & delivery handled via map navigation
 
 NGOs rate food quality
 
+**Future Improvements:**
 
+AI-based food demand prediction
+
+Mobile app version
+
+Real-time tracking system
+
+**Team Members:**
+
+Aryashree H
+
+Janhavi Dash
+
+Hanaa safreena
+
+K Thanushrie
 
