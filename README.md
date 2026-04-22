@@ -1,7 +1,7 @@
 # nourish-link
 food donation app
 
-overview:
+**overview:**
 
 Our Food Donation App is a platform that connects restaurants with surplus food to NGOs and communities in need, helping reduce food waste while addressing hunger. Restaurants and NGOs can easily register on the app, where restaurants post available surplus food and NGOs post their requirements.
 
@@ -14,28 +14,50 @@ To encourage participation, the app features a leaderboard for restaurants that 
 Overall, the app creates an efficient, transparent, and rewarding ecosystem for food donation, ensuring surplus food reaches those who need it most.
 Our Food Donation App is a platform that connects restaurants with surplus food to NGOs and communities in need, helping reduce food waste while addressing hunger. Restaurants and NGOs can easily register on the app, where restaurants post available surplus food and NGOs post their requirements.
 
-Problem Statement:
+**Problem Statement:**
 
 A significant amount of food is wasted daily while many people go hungry. This platform bridges that gap using technology.
 
-Features
+**Features**
 
  Restaurant & NGO Registration
+ 
  Post Surplus Food & Requirements
+ 
  Contact Information Sharing
+ 
  Live Map Location for Pickup & Drop
+ 
  AI Chatbot Assistant for Queries
+ 
  Instant Alert for Urgent Donations (Accept / Decline)
+ 
  Pickup & Drop Navigation (like Rapido)
+ 
  Leaderboard for Top Donating Restaurants
+ 
  NGO Rating System for Food Quality
+ 
  Order Cancellation (within 5–10 minutes)
+ 
  Promotion of Socially Responsible Restaurants
 
  Frontend: ( HTML-CSS-JS)
 Backend: (Node.js / Flask / Django)
 Database: (MongoDB / Firebase / MySQL)
 APIs: 
+
+**How It Works:**
+
+Restaurants post surplus food
+
+NGOs browse or receive alerts
+
+NGOs accept or decline requests
+
+Pickup & delivery handled via map navigation
+
+NGOs rate food quality
 
 
 
