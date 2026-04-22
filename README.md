@@ -44,13 +44,12 @@ A significant amount of food is wasted daily while many people go hungry. This p
  
 **Frontend:** ( HTML-CSS-JS)
 
-**Backend:** (Node.js / Flask / Django)
+**Backend:** (Node.js)
 
-**Database:** (MongoDB / Firebase / MySQL)
+**Database:** ( MySQL)
 
 **APIs:** google API
 
-**Set up instructions:**
 
 
 **How It Works:**
